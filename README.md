@@ -5,5 +5,5 @@
 
 ### ➖ My skills are:
 ⚫ Python
-⚫ MySQL
+⚫ SQL
 ⚫ JavaScript
